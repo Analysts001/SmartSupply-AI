@@ -1,0 +1,8 @@
+streamlit==1.56.0
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn
+matplotlib
+seaborn
+joblib
+google-cloud-bigquery
